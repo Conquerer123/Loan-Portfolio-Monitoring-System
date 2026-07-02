@@ -122,11 +122,11 @@ Loan-Portfolio-Monitoring-System/
 
 ### Python Analytics Output
 
-![Analytics Output](screenshots/analysis_output.png)
+![Analytics Output](screenshots/analysis_output.PNG)
 
 ### GitHub Repository
 
-![Repository](screenshots/github_repository.png)
+![Repository](screenshots/github_repository.PNG)
 
 ---
 
